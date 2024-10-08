@@ -1,0 +1,14 @@
+C:\Users\Mariusz\source\repos\KalkulatorGenColpitts\bin\Debug\net8.0\KalkulatorGenColpitts.exe
+C:\Users\Mariusz\source\repos\KalkulatorGenColpitts\bin\Debug\net8.0\KalkulatorGenColpitts.deps.json
+C:\Users\Mariusz\source\repos\KalkulatorGenColpitts\bin\Debug\net8.0\KalkulatorGenColpitts.runtimeconfig.json
+C:\Users\Mariusz\source\repos\KalkulatorGenColpitts\bin\Debug\net8.0\KalkulatorGenColpitts.dll
+C:\Users\Mariusz\source\repos\KalkulatorGenColpitts\bin\Debug\net8.0\KalkulatorGenColpitts.pdb
+C:\Users\Mariusz\source\repos\KalkulatorGenColpitts\obj\Debug\net8.0\KalkulatorGenColpitts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariusz\source\repos\KalkulatorGenColpitts\obj\Debug\net8.0\KalkulatorGenColpitts.AssemblyInfoInputs.cache
+C:\Users\Mariusz\source\repos\KalkulatorGenColpitts\obj\Debug\net8.0\KalkulatorGenColpitts.AssemblyInfo.cs
+C:\Users\Mariusz\source\repos\KalkulatorGenColpitts\obj\Debug\net8.0\KalkulatorGenColpitts.csproj.CoreCompileInputs.cache
+C:\Users\Mariusz\source\repos\KalkulatorGenColpitts\obj\Debug\net8.0\KalkulatorGenColpitts.dll
+C:\Users\Mariusz\source\repos\KalkulatorGenColpitts\obj\Debug\net8.0\refint\KalkulatorGenColpitts.dll
+C:\Users\Mariusz\source\repos\KalkulatorGenColpitts\obj\Debug\net8.0\KalkulatorGenColpitts.pdb
+C:\Users\Mariusz\source\repos\KalkulatorGenColpitts\obj\Debug\net8.0\KalkulatorGenColpitts.genruntimeconfig.cache
+C:\Users\Mariusz\source\repos\KalkulatorGenColpitts\obj\Debug\net8.0\ref\KalkulatorGenColpitts.dll
